@@ -13,6 +13,6 @@ To play this game please click on following link:
 
 https://repl.it/@dhamopandav1311/Quiz-gameLevelOne?embed=1&output=1#index.js
 
-# Feature used:
+# Packages used:
 
 1. readline-sync package
